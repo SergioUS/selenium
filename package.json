@@ -55,7 +55,7 @@
     "react-scripts": "^5.0.1",
     "rimraf": "^2.7.1",
     "source-map-explorer": "^2.5.2",
-    "tmp": "^0.2.4",
+    "tmp": "^0.2.6",
     "ws": "^7.5.10"
   }
 }
